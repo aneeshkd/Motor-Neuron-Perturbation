@@ -1,4 +1,4 @@
-# Motor-Neuron-Perturbation
+# In Silico Motor-Neuron-Perturbation
 In-silico perturbation of the developing motor neurons in the mouse spinal cord 
 
 Data and cell-type annotations were taken from the following publication: 
@@ -7,4 +7,4 @@ Julien Delile, Teresa Rayon, Manuela Melchionda, Amelia Edwards, James Briscoe, 
 scRNA-seq data was processed using Scanpy and GRN-perturbation was done using CellOracle
 
 Result:
-The in-silico knockout of Nf1a in the developing motor neurons of the mouse spinal cord shows a trajectory that inhibits the maturation of motor neurons.
+The in-silico knockout of Nfia in the developing motor neurons of the mouse spinal cord shows a trajectory that inhibits the maturation of motor neurons.
